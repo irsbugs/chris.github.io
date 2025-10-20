@@ -1,3 +1,2 @@
-# chris.github.io
-Thesis
-This is a Nikola website repository.
+Files folder for assets and pdfs
+Also has index.html for initial home page
