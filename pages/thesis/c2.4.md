@@ -807,7 +807,7 @@ community and ultimately the whole Biosphere. These insights are of particular r
 conception of the *Integrating Self* as the attractor responsible for Sustainable Wellbeing at the 
 Individual-Interpersonal level. 
 
-2.4.8.3 Eco-Anxiety <a id="2.4.8.3"></a>
+### 2.4.8.3 Eco-Anxiety <a id="2.4.8.3"></a>
 
 There is something in the tone of Scott’s conclusion—that a realisation of what is at stake in the 
 Anthropocene challenges our basic comprehension of what it means to be human—which suggests, 
