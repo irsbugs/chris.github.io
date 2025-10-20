@@ -93,4 +93,11 @@ by international standards, controlling the official discourse about schooling o
 according to knowledge-based education advocate Briar Lipson (2020).
 
 
- 
+Getting mail.yml to work
+Error: remote: Permission to irsbugs/chris.github.io.git denied to github-actions[bot].
+
+Settings --> Actions --> General --> Workflow permissions
+
+Check: Read and write permissions Workflows have read and write permissions in the repository for all scopes.
+
+https://github.com/irsbugs/chris.github.io/settings/actions
