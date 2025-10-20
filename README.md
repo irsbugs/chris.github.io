@@ -1,3 +1,5 @@
 # chris.github.io
 Thesis
-This is a Nikola website repository.
+This the src (source) branch of this Nikola website repository.
+The yaml file build the website
+
