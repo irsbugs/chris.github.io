@@ -72,14 +72,15 @@ development is that of the Brundtland report, Our Common Future, of the World Co
 Environment and Development (WCED), chaired by Gro Harlem Brundtland. The first paragraph of the 
 second chapter *Towards Sustainable Development* states: 
 
-> 1. Sustainable development is development that meets the needs of the present 
-> without compromising the ability of future generations to meet their own needs. 
-> It contains within it two key concepts: 
-> • the concept of 'needs', in particular the essential needs of the world's poor, to which overriding priority should be given; and 
-> • the idea of limitations imposed by the state of technology and social 
-> organization on the environment's ability to meet present and future needs. 
-> 
-> (WCED, 1987, p. 37) 
+<blockquote>
+1. Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs. It contains within it two key concepts:
+<br>
+• the concept of 'needs', in particular the essential needs of the world's poor, to which overriding priority should be given; and 
+<br>
+• the idea of limitations imposed by the state of technology and social organization on the environment's ability to meet present and future needs. 
+<br><br> 
+(WCED, 1987, p. 37) 
+</blockquote>
 
 The authors’ concern for global social justice is clear and there is an apparent recognition that the 
 needs of the world’s industrialized developed nations need to decrease. In her foreword, the chairman 
