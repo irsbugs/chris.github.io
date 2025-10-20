@@ -182,7 +182,7 @@ NAVIGATION_LINKS = {
                 ('/en/thesis/c1.1/', '1.1'),
                 ('/en/thesis/c1.2/', '1.2'),                                  
                 ('/en/thesis/c1.3/', '1.3'), 
-                ('/en/thesis/c1.6/', '1.4'), 
+                ('/en/thesis/c1.4/', '1.4'), 
                 ('/en/thesis/c1.5/', '1.5'),                                 
             ),
             '1'
@@ -194,7 +194,7 @@ NAVIGATION_LINKS = {
                 ('/en/thesis/c2.1/', '2.1'),
                 ('/en/thesis/c2.2/', '2.2'),                                  
                 ('/en/thesis/c2.3/', '2.3'), 
-                ('/en/thesis/c2.6/', '2.4'), 
+                ('/en/thesis/c2.4/', '2.4'), 
                 ('/en/thesis/c2.5/', '2.5'),     
                 ('/en/thesis/c2.6/', '2.6'),  
                 ('/en/thesis/c2.7/', '2.7'),                                                              
