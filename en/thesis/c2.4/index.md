@@ -60,7 +60,7 @@ phrase *Sustainable Wellbeing* and the implications of that synthesis for measur
 our conception of the Self, the meaning of being human, and addressing students' diverse attitudes 
 towards Climate Change and the sustainability crisis through educational paths that have heart. 
 
-## 2.4.2 Sustainability <a id="2.4.1"></a>
+## 2.4.2 Sustainability <a id="2.4.2"></a>
  
 *Definitions for Sustainability*
 
